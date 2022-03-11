@@ -2,7 +2,7 @@ import ru.netology.someVariable
 import ru.netology.x
 
 fun main() {
-    println(someVariable)
+    println("Here is $someVariable")
     x()
 
 }
