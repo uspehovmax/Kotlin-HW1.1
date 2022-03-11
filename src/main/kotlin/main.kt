@@ -4,5 +4,4 @@ import ru.netology.x
 fun main() {
     println("Here is $someVariable")
     x()
-
 }
